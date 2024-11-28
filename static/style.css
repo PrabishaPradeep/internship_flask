@@ -3,7 +3,8 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #f6fdf6;
+  background-image: url('/static/bg.png');
+  background-size: cover; 
   
 }
 
